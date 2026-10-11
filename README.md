@@ -1,4 +1,6 @@
-![MasterHead](https://techstack-generator.vercel.app/github-header?title=MaximTh&description=Siber%20G%C3%BCvenlik%20%26%20Sistem%20Geli%C3tirme%20Laboratuvar%C3&theme=dark)
+<p align="center">
+  <img src="(https://share.gemini.google/ZLsUCNp7IQGL)" alt="MaximTh Security Solutions & Developer" width="100%" style="max-width: 100%; height: auto;" />
+</p>
 
 <div align="center">
   <h1>Hack is My Life</br>I will achieve what I can dream of!</br>Ready or Not</h1>
