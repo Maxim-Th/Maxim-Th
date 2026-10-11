@@ -24,7 +24,7 @@ Siber güvenlik, sistem mimarisi ve yazılım geliştirme alanlarında projeler 
 
 * **Siber Güvenlik:** Sızma Testi, Ağ Analizi, Firewall, SIEM / WAF konseptleri.
 * **Sistem & Altyapı:** Linux/Unix yönetimi, Sanallaştırma, Docker, Konteyner teknolojileri.
-* **Programlama & Scripting:** Python, Bash, PowerShell, PHP, MySQL, JavaScript.
+* **Programlama & Scripting:** Python, Bash, PowerShell, PHP, MySQL, JavaScript, GoLang.
 
 ---
 
