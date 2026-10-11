@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://share.gemini.google/ZLsUCNp7IQGL)" alt="MaximTh Security Solutions & Developer" width="100%" style="max-width: 100%; height: auto;" />
+  <img src="(https://i.hizliresim.com/9nceqmqx.jpg)" alt="MaximTh Security Solutions & Developer" width="100%" style="max-width: 100%; height: auto;" />
 </p>
 
 <div align="center">
